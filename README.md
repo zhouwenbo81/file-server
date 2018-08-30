@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # file-server
 文件管理系统服务
 
@@ -5,3 +6,6 @@
         
     好了就写这么一点内容吧，哈哈！
     dsgyuwefgh
+=======
+#File-Server
+>>>>>>> 7e31ea6d73a4a22593af61cdf20c407e8d875b13
